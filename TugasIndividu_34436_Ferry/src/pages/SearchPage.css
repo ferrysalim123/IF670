@@ -1,0 +1,32 @@
+.row1 {
+    padding-top: 10px;
+}
+
+.labelVisual {
+    padding-left: 10px;
+}
+
+.theContent {
+    width: 100%;
+    height: 100%;
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 55px;
+}
+
+.searchCol {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-width: 0em;
+}
+
+.imgSearch {
+    height: 100%;
+    width: 100%;
+}
+
+.segment {
+    background-color: white;
+}
